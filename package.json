@@ -1,0 +1,16 @@
+{
+  "name": "com.cysharp.zstring",
+  "displayName": "ZString",
+  "author": {
+    "name": "Cysharp, Inc.",
+    "url": "https://cysharp.co.jp/en/"
+  },
+  "version": "2.6.0",
+  "unity": "6000.1",
+  "description": "Zero Allocation StringBuilder for .NET and Unity",
+  "keywords": [
+    "STRING"
+  ],
+  "license": "MIT",
+  "category": "Scripting"
+}
